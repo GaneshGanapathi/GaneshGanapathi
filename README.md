@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GaneshGanapathi
 - 👀 I’m interested in learning something new
-- 🌱 I’m currently learning Full Stack
 - 📫 How to reach me mail- ganeshganapathi178@gmail.com
 
 <!---
