@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaneshGanapathi
 - 👀 I’m interested in learning something new
-- 📫 How to reach me mail- ganeshganapathi178@gmail.com
+- 📫 How to reach me mail- ganeshganapathi19@outlook.com
 
 <!---
 GaneshGanapathi/GaneshGanapathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
