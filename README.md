@@ -8,7 +8,7 @@
 
   <div>
     <a href="mailto:ganeshganapathi29@yahoo.com">
-      <img src="https://img.shields.io/badge/Email-ganeshganapathi19%40outlook.com-blue?style=flat-square&logo=microsoftoutlook" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-ganeshganapathi29%40yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/ganesh-ganapathi">
       <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Ganapathi-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
