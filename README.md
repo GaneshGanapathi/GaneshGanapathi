@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Hi there, I'm Ganesh Ganapathi! 👋</h1>
-  <h3>Aspiring Software Development Engineer</h3>
   <p>
+    <font size="24"><b>Aspiring Software Development Engineer</b></font><br>
     Integrated M.Tech in Computer Science @ VIT Chennai<br>
     <i>Building scalable backend systems, APIs, and data-driven applications.</i>
   </p>
 
   <div>
-    <a href="mailto:ganeshganapathi19@outlook.com">
+    <a href="mailto:ganeshganapathi29@yahoo.com">
       <img src="https://img.shields.io/badge/Email-ganeshganapathi19%40outlook.com-blue?style=flat-square&logo=microsoftoutlook" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/ganesh-ganapathi">
@@ -17,6 +17,8 @@
 </div>
 
 <br />
+
+---
 
 <!-- BIO SECTION FROM RESUME -->
 ### 👨‍💻 About Me
