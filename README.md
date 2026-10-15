@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Ganesh Ganapathi! 👋</h1>
   <p>
-    <font size="24"><b>Aspiring Software Development Engineer</b></font><br>
+    <font size="24"><b>Aspiring AI Software Development Engineer</b></font><br>
     Integrated M.Tech in Computer Science @ VIT Chennai<br>
     <i>Building scalable backend systems, APIs, and data-driven applications.</i>
   </p>
